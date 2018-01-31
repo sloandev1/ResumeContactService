@@ -1,2 +1,2 @@
 # ResumeContactService
-test info 1
+test info 2
